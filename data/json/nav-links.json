@@ -108,16 +108,5 @@
     "sort": 1,
     "visible": true,
     "clicks": 64
-  },
-  {
-    "id": "lnk_pw8epq1n",
-    "title": "测试导航站 HN",
-    "url": "https://news.ycombinator.com",
-    "description": "科技新闻",
-    "categoryId": "cat_dev",
-    "tags": [],
-    "sort": 5,
-    "visible": true,
-    "clicks": 0
   }
 ]
