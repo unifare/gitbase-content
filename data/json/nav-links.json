@@ -1,0 +1,10 @@
+[
+  { "id": "lnk_github", "title": "GitHub", "url": "https://github.com", "description": "全球最大代码托管平台", "categoryId": "cat_dev", "tags": ["git", "code"], "sort": 0, "visible": true, "clicks": 42 },
+  { "id": "lnk_mdn", "title": "MDN Web Docs", "url": "https://developer.mozilla.org", "description": "Web 技术权威文档", "categoryId": "cat_dev", "tags": ["docs", "web"], "sort": 1, "visible": true, "clicks": 18 },
+  { "id": "lnk_figma", "title": "Figma", "url": "https://figma.com", "description": "协作式界面设计工具", "categoryId": "cat_design", "tags": ["ui", "design"], "sort": 0, "visible": true, "clicks": 33 },
+  { "id": "lnk_dribbble", "title": "Dribbble", "url": "https://dribbble.com", "description": "设计师作品灵感社区", "categoryId": "cat_design", "tags": ["inspiration"], "sort": 1, "visible": true, "clicks": 9 },
+  { "id": "lnk_excalidraw", "title": "Excalidraw", "url": "https://excalidraw.com", "description": "手绘风格在线白板", "categoryId": "cat_tools", "tags": ["whiteboard", "draw"], "sort": 0, "visible": true, "clicks": 21 },
+  { "id": "lnk_tinypng", "title": "TinyPNG", "url": "https://tinypng.com", "description": "智能 PNG/JPEG 压缩", "categoryId": "cat_tools", "tags": ["image", "compress"], "sort": 1, "visible": true, "clicks": 7 },
+  { "id": "lnk_chatgpt", "title": "ChatGPT", "url": "https://chat.openai.com", "description": "OpenAI 对话式 AI", "categoryId": "cat_ai", "tags": ["llm", "chat"], "sort": 0, "visible": true, "clicks": 128 },
+  { "id": "lnk_claude", "title": "Claude", "url": "https://claude.ai", "description": "Anthropic 智能助手", "categoryId": "cat_ai", "tags": ["llm"], "sort": 1, "visible": true, "clicks": 64 }
+]
