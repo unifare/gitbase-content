@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "category": null,
+    "lastModified": "2026-07-18T05:17:40Z",
+    "path": "data/md/README.md"
+  },
+  {
+    "title": "测试文章 Hello GitBase",
+    "description": "端到端验证：写入 GitHub",
+    "date": "2026-07-18T05:21:02.378Z",
+    "category": "test",
+    "lastModified": "2026-07-18T05:21:04Z",
+    "path": "data/md/hello-gitbase-e2e.md"
+  }
+]
